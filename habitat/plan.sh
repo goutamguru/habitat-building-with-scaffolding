@@ -31,4 +31,4 @@ pkg_license=("Apache-2.0")
 pkg_scaffolding="core/scaffolding-ruby"
 
 # updating the pkg dependency
-pkg_deps=( core/imagemagick )
+pkg_deps=( jgouhab/imagemagick )
